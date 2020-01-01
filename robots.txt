@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeleevahlo.ponomarevlad.ru/sitemap.xml
